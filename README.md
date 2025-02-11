@@ -23,6 +23,7 @@ This website is designed exclusively for users who want to upscale their general
    cd quiztastic-dash & cd server
 4. Install the necessary dependencies using npm:
    ```bash
+   npm install
 5. Run the project locally:
    ```bash
    npm run dev
