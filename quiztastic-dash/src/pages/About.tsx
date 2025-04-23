@@ -16,7 +16,6 @@ const About = () => {
             <div className="bg-card p-6 rounded-lg shadow-lg">
               <h2 className="text-2xl font-semibold mb-4">How It Works</h2>
               <ul className="space-y-3 list-disc pl-6">
-                <li>Select your preferred subject from our diverse quiz categories</li>
                 <li>Complete a brief registration before starting the quiz</li>
                 <li>Answer 5 questions within 30 seconds each</li>
                 <li>Get instant results and track your progress in the dashboard</li>
