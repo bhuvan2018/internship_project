@@ -9,8 +9,7 @@ const About = () => {
           <h1 className="text-4xl font-bold mb-8 text-center">About QuizMaster</h1>
           <div className="space-y-6 text-lg">
             <p>
-              Welcome to QuizMaster, your ultimate platform for testing and enhancing your knowledge
-              across various subjects. Our platform offers a comprehensive quiz experience with
+              Welcome to QuizMaster, your ultimate platform for testing and enhancing your knowledge. This platform offers a comprehensive quiz experience with
               timed challenges and immediate feedback.
             </p>
             <div className="bg-card p-6 rounded-lg shadow-lg">
