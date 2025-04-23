@@ -17,8 +17,8 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs.send(
-      "service_o17yyqp", // Service ID
-      "template_0f6e8pl", // Template ID
+      "service_o17yyqp",
+      "template_0f6e8pl",
       {
         from_name: formData.name,
         from_email: formData.email,
